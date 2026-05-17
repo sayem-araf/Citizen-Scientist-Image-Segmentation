@@ -251,4 +251,7 @@ Training outputs typically go to:
 - iNaturalist images have per-image licenses. `download.py` filters to open licenses by default (`cc-by, cc-by-nc, cc0`).
 - Ensure you follow attribution requirements when distributing or publishing results.
 
+## Conducted by -
+- Nandan
+- Sayem 
 ---
